@@ -23,7 +23,7 @@ import in.co.rays.Project_4.Utility.JDBCDataSource;
 
 /**
  * JDBC Implementation of UserModel.
- * @author Darshan
+ * @author sunidhi johri
  *
  */
 public class UserModel {
